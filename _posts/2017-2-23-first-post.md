@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title: "第一条博文"
 date: 2017-02-23
 excerpt: "A ton of text to test readability."
-tags: [sample post]
+tags: [post]
 comments: true
 ---
 
