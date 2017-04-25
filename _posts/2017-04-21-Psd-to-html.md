@@ -13,5 +13,7 @@ comments: true
 
 #### 建立文件夹
 
-1.
+1.css文件夹：根据需要存放三个css文件；
+
+reset.css：用来重置各种标签的默认样式，如把所有标签的margin，padding置为0
 
