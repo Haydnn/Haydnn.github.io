@@ -3,7 +3,7 @@ layout: post
 title: "第一条博文"
 date: 2017-02-23
 excerpt: "技术小白前路蹉跎啊"
-tags: [博文,随笔]
+tags: [博文,分享]
 comments: true
 ---
 
