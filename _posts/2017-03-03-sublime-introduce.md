@@ -3,11 +3,9 @@ layout: post
 title: "sublime text3的安装使用"
 date: 2017-03-03
 excerpt: "常用功能及快捷键"
-tags: [工具,博文]
+tags: [博文,前端]
 comments: true
 ---
-
-# sublime text3的安装和常用功能 
 
 ## sublime text3的安装
 
@@ -17,7 +15,7 @@ comments: true
 	
 安装方法：在sublime运行界面按快捷键Ctrl+shift+p，弹出命令栏，在命令栏输入install，选择install package。会出现一系列插件表，确保电脑联网之后，点击需要的插件就会自动安装。安装完成后，可以在运行界面的preferences--package settings查看已经安装好的插件，可以自己进行配置。
 
-**Emmet**：sublime必备插件，减少代码量，可以通过简写自动扩充代码段.Ctrl+E
+Emmet：sublime必备插件，减少代码量，可以通过简写自动扩充代码段.Ctrl+E
 
 Emmet语法：
 
