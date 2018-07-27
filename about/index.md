@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 博主介绍
+title: 关于博主
 tags: [about, Jekyll, theme, moon]
 date: 2017-10-18
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><span id="busuanzi_container_site_uv">本站访客数<span id="busuanzi_value_site_uv"></span>人次</span></center>
 
 ## Features
 * Minimal, you can focus on your content
